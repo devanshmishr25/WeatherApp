@@ -12,7 +12,7 @@ A simple and beautiful weather app built with **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Screenshots
 
-> *(![live](https://github.com/user-attachments/assets/9968d9db-4559-411d-a4ee-ae06f5ab3101))*
+> *![live](https://github.com/user-attachments/assets/9968d9db-4559-411d-a4ee-ae06f5ab3101)*
 
 ---
 
