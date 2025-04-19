@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const airQualityElement = document.getElementById('air-quality');
     
     // API key and base URL
-    const apiKey = 'f344b15ce79e47c082475037251704';
-    const apiUrl = 'https://api.weatherapi.com/v1/current.json';
+    const apiKey = '   ';
+    const apiUrl = '   ';
     
     // Function to fetch weather data
     async function getWeatherData(location) {
